@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome to my profile!
+**Welcome to my profile!**
 
 - 🔭 I’m currently working on development
 - 🌱 I’m currently learning JS
